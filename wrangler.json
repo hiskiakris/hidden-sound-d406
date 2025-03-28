@@ -1,0 +1,23 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "hidden-sound-d406",
+  "upload_source_maps": true,
+  "kv_namespaces": [
+    {
+      "binding": "AUTH_STORAGE",
+      "id": "9063ab0804bd4dd1adc578a2e8c9566d"
+    }
+  ],
+  "d1_databases": [
+    {
+      "binding": "AUTH_DB",
+      "database_name": "hidden-sound-d406-d1",
+      "database_id": "aa77202d-9f58-40ff-9cc1-ad3d61a18089"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  },
+  "compatibility_flags": ["nodejs_compat"]
+}
